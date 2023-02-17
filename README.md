@@ -1,16 +1,13 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=andregans&show_icons=true&theme=synthwave)
+
 ### Hi there 👋
-
-<!--
-**andregans/andregans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on PT. Mencari Cinta Sejati
+- 🌱 I’m currently learning Laravel and JS Based
+- 👯 I’m looking to collaborate on Wibucode
+- 🤔 I’m looking for help with Teacher di Youtube
+- 💬 Ask me about Rasa titit kecoa
+- 📫 How to reach me: Facebook "Andre Rio"
+- 😄 Pronouns: Goblok, Anjing, Tolol
+- ⚡ Fun fact: Entahlah men, gw gak punya fakta yang menyenangkan
