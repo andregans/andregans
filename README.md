@@ -17,7 +17,7 @@ I'm from Indonesia and I've been working as a freelance UI/UX Designer & Graphic
 
 <h3 align="left">My Social Media:</h3>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://figma.com/@ariar)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andre-rio-57bb7623b/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andrerio669/)
 
 
