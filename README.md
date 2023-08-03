@@ -10,9 +10,9 @@ UI & Graphic Desginer
 I'm from Indonesia and I've been working as a freelance UI/UX Designer & Graphic Desginer for more than 3 years. Am also the founder of the Wibucode community.
 
 - 🌍 Website: [andrerio.com](https://andrerio.com)
-- 🖌️ Portfolio: [dribbble](dribbble.com/andrerio669)
+- 🖌️ Portfolio: [dribbble](https://dribbble.com/andrerio669)
 - ✉️ Contact: [email](mailto:andrerio669@gmail.com)
-- 🍵 Donate: [saweria](saweria.com/andrerio)
+- 🍵 Donate: [saweria](https://saweria.com/andrerio)
 
 
 <h3 align="left">My Social Media:</h3>
