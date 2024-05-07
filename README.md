@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andregans&label=Profile%20views&color=0e75b6&style=flat" alt="andregans" /> </p>
 
 ### 🧑‍💻 About Me
-Hi, i'm Andre Rio. 
+Hi, I'm Andre Rio. 
 UI & Graphic Desginer
-I'm from Indonesia and I've been working as a freelance UI/UX Designer & Graphic Desginer for more than 3 years. Am also the founder of the Wibucode community.
 
-- 🌍 Website: [andrerio.com](https://andrerio.com)
+
+- 🌍 Website: [-]()
 - 🖌️ Portfolio: [dribbble](https://dribbble.com/andrerio669)
 - ✉️ Contact: [email](mailto:andrerio669@gmail.com)
 - 🍵 Donate: [saweria](https://saweria.com/andrerio)
@@ -23,7 +23,7 @@ I'm from Indonesia and I've been working as a freelance UI/UX Designer & Graphic
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Tools % Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,ae,vscode,git)](https://skillicons.dev)
+[![Tools % Skills](https://skillicons.dev/icons?i=html,css,tailwind,figma,vscode,git)](https://skillicons.dev)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=andregans&show_icons=true&theme=synthwave)
 
