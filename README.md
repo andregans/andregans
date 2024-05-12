@@ -9,10 +9,10 @@ Hi, I'm Andre Rio.
 UI & Graphic Desginer
 
 
-- 🌍 Website: [-]()
 - 🖌️ Portfolio: [dribbble](https://dribbble.com/andrerio669)
 - ✉️ Contact: [email](mailto:andrerio669@gmail.com)
-- 🍵 Donate: [saweria](https://saweria.com/andrerio)
+- 🍵 Donate: [saweria](https://saweria.com/andrerio) , [ko-fi](ko-fi.com/andrerio)
+- 🎲 Community: [figma](https://www.figma.com/@hanzo)
 
 
 <h3 align="left">My Social Media:</h3>
