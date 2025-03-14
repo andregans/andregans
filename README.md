@@ -9,7 +9,7 @@ Hi, I'm Andre Rio.
 UI & Graphic Desginer
 
 
-- 🖌️ Portfolio: [dribbble](https://dribbble.com/andrerio669)
+- 🖌️ Portfolio: [behance](https://www.behance.net/andrerio)
 - ✉️ Contact: [email](mailto:andrerio669@gmail.com)
 - 🍵 Donate: [saweria](https://saweria.com/andrerio) , [ko-fi](ko-fi.com/andrerio)
 - 🎲 Community: [figma](https://www.figma.com/@hanzo)
