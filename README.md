@@ -19,6 +19,7 @@ UI & Graphic Desginer
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andre-rio-57bb7623b/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andrerio669/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.x.com/andrerio669/)
 
 
 <h3 align="left">Languages and Tools:</h3>
